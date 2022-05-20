@@ -14,7 +14,7 @@ def outcome(random_symbol, user):
     print(f'You showed {user}')
     print(drawings.image(user))     # Prints image corresponding to user input
 
-    key = winning_combo[random_symbol]  # Winning combination of randomly chosen element is stored the variable key
+    key = winning_combo[random_symbol]  # Winning combination of randomly chosen element is stored in the variable "key".
 
     """
     The idea applied here is that only one winning combination exists for each of the 3 values.
