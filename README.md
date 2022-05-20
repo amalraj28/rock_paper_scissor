@@ -7,4 +7,5 @@ The entire program has been divided into 4 modules:
 3. game_outcome.py    --->  Compares the random value and user inputted value to decide who won.
 4. drawings.py    --->  Has the ASCII art of Rock, Paper, Scissor inspired from this [gist](https://gist.github.com/wynand1004/b5c521ea8392e9c6bfe101b025c39abe5)
   
-
+To use the program:
+  Run the main.py file in the terminal and follow the instructions displayed.
